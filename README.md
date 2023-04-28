@@ -22,7 +22,7 @@
 </div>
 <hr>
 
-<div align="left">
+<div align="center">
   
   ### :fire: My Stats:
   ![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=aljawaid&show_icons=true&count_private=true&theme=dark)&nbsp;<br>
