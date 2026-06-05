@@ -6,7 +6,7 @@
 </div>
 <div align="center">
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aljawaid&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aljawaid&theme=dark&date_format=j%20M%5B%20Y%5D)](#)
 
 </div>
 <div align="center">
@@ -25,7 +25,7 @@
 <div align="center">
   
   ### :fire: My Stats:
-  ![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=aljawaid&show_icons=true&count_private=true&theme=dark)&nbsp;<br>
-  ![My Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aljawaid&theme=blue-green&langs_count=10&card_width=467)
+  [![My Repository's Stats](https://github-readme-stats-fast.vercel.app/api?username=aljawaid&show_icons=true&count_private=true&theme=dark)](#)
+  [![My Repository's Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aljawaid&theme=blue-green&langs_count=10&card_width=467)](#)
 
 </div>
