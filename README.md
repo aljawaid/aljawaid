@@ -6,7 +6,8 @@
 </div>
 <div align="center">
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aljawaid&theme=dark&date_format=j%20M%5B%20Y%5D)](#)
+  <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aljawaid&theme=dark&date_format=j%20M%5B%20Y%5D)](#)-->
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=aljawaid&theme=dark)](https://git.io/streak-stats)
 
 </div>
 <div align="center">
